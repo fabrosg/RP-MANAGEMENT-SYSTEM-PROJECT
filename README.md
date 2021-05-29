@@ -12,9 +12,9 @@ Features Hierarchy
 Admin Control Structure
 Add Co-Admin / Moderator
 View Moderators
-Add College
+Add IPRC
 Add Student
-View College Students
+View IPRC Students
 View Students Details
 Edit Students Details
 Delete Student
@@ -30,13 +30,13 @@ Administrator :
 is like a head for all this who is managing up all the details in the work and managing the records actively.
 
 Dashboard: Which takes admin back to the admin dashboard where ever admin is.
-Moderator: To view all moderators added for particular college.
+Moderator: To view all moderators added for particular IPRC.
 Logout: Logout from the dashboard
 
 Add College : Add college to the database so that it can be dynamically fetched from the database for student college information. Add College Form input includes:
 Adding college name
 Adding college branch
-Add Moderator : Add a moderator for a particular college that means a head of that college. Add Moderator form input includes:
+Add Moderator : Add a moderator for a particular college that means a head of that IPRC. Add Moderator form input includes:
 Add Username
 Add College name(Dynamically loaded from database)
 Email
@@ -46,7 +46,7 @@ Password
 Confirm Password
 Add Student : Add Student to the record with different college. Add Student form input includes:
 Add Student Name
-Add College name(Dynamically loaded from database)
+Add IPRC name(Dynamically loaded from database)
 Email
 Gender
 Course

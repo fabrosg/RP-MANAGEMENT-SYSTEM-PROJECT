@@ -7,8 +7,6 @@ Languages used in Project: PHP
 Framework: Codeigniter
 Front-end: HTML/CSS, Bootstrap
 
-# Read More About Codeigniter in Readme.rst file
-
 Features Hierarchy
 ---------------------
 Admin Control Structure

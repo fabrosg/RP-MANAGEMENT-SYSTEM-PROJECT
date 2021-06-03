@@ -38,7 +38,7 @@
 					<?php else: ?>
 						<tr>
 							<td>
-								No Records Found!
+								No DATA ARE IN!
 							</td>
 						</tr>
 					<?php endif;?>

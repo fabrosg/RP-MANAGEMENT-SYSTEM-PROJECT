@@ -37,7 +37,7 @@
 		<div class="row">
 			<div class="col-md-6">
 				<div class="form-group">
-					<label for="collegename" class="col-md-3 control-label">College Name</label>
+					<label for="collegename" class="col-md-3 control-label">IPRC Name</label>
 					<select class="col-md-9" name="college_id">
 						<option value="">Select</option>
 						<?php if (count($colleges)): ?>

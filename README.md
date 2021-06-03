@@ -3,7 +3,7 @@
 ### RMP is the project based on RWANDA POLYTECHNIC students records and the course they are having. 
 ###DONE BY GIHOZO FABRICE AND TUYISENGE EMMANUEL
 
-HOW TO USE
+HOW TO USE IT
 -----------
 -DOWNLOAD IT
 -CREATE FOLDER IN Htdocs 
@@ -11,11 +11,12 @@ HOW TO USE
 -open xampp and create database 
 -import database that is inside
 -open browser type localhost/your folder name ex:http://localhost/project/PROJECTRPM/
--password for admin is admin
+-I ADD TEMPORARY ADDMIN REGISTER TO HELPS YOU TO ENTER FOR THE FIRST TIME EVEN IF ADMIN REGISTER SHOULD BE HIDDEN 
+-AFTER TO ENTER AS ADMIN FIRST ADD THE LIST OF IPRCs
+-and ADD MODULATOR TO THE GIVEN IPRCs
+-then assign student to these IPRCs
                     
--username:admin@gmail.com and you will go to this .../admin/dashboard
-        
-TOOLS USED
+ TOOLS USED
 ==========
 
 Languages used in Project: PHP

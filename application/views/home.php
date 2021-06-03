@@ -14,6 +14,7 @@
 					</div>
 					<div class="col-lg-4">
 						<?php echo anchor("welcome/login", "Admin Login", ['class'=>'btn btn-primary']); ?>
+						<?php echo anchor("welcome/adminRegister", "Admin Register", ['class'=>'btn btn-primary']); ?>
 					</div>
 				</div>
 			</div>

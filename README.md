@@ -1,7 +1,22 @@
 # Rwanda Polytechnic Management Project
 ----------------------------------------
 ### RMP is the project based on RWANDA POLYTECHNIC students records and the course they are having. 
-Clone it and try to find out the intersting features inside.
+###DONE BY GIHOZO FABRICE AND TUYISENGE EMMANUEL
+
+HOW TO USE
+-----------
+-DOWNLOAD IT
+-CREATE FOLDER IN Htdocs 
+-then Paste it in folder you create 
+-open xampp and create database 
+-import database that is inside
+-open browser type localhost/your folder name ex:http://localhost/project/PROJECTRPM/
+-password for admin is admin
+                       ======
+-username:admin@gmail.com and you will go to this .../admin/dashboard
+          ================
+TOOLS USED
+==========
 
 Languages used in Project: PHP
 Framework: Codeigniter

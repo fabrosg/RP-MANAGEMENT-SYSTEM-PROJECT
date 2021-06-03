@@ -15,7 +15,7 @@
 					<tr>
 						<th>ID</th>
 						<th>Student name</th>
-						<th>College Name</th>
+						<th>IPRC Name</th>
 						<th>Email</th>
 						<th>Gender</th>
 						<th>Course</th>

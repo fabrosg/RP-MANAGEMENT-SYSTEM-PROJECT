@@ -20,12 +20,12 @@
 				<thead>
 					<tr>
 						<th>ID</th>
-						<th>College Name</th>
-						<th>Username</th>
-						<th>Email</th>
-						<th>Role</th>
-						<th>Gender</th>
-						<th>Branch</th>
+						<th>IPRC TUMBA Name</th>
+						<th>USERNAME</th>
+						<th>EMAIL</th>
+						<th>ROLE</th>
+						<th>GENDER</th>
+						<th>BRANCH</th>
 						<th>Action</th>
 					</tr>
 				</thead>
@@ -46,7 +46,7 @@
 					<?php else: ?>
 						<tr>
 							<td>
-								No Records Found!
+								No DATA ARE IN INSERT DATA IN ABOVE LINK !
 							</td>
 						</tr>
 					<?php endif;?>

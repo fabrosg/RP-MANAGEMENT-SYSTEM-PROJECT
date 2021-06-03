@@ -12,9 +12,9 @@ HOW TO USE
 -import database that is inside
 -open browser type localhost/your folder name ex:http://localhost/project/PROJECTRPM/
 -password for admin is admin
-                       ======
+                    
 -username:admin@gmail.com and you will go to this .../admin/dashboard
-          ================
+        
 TOOLS USED
 ==========
 

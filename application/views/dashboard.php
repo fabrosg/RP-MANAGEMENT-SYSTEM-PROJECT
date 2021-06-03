@@ -12,7 +12,7 @@
 			<?php echo anchor("admin/addcollege", 'Add College', ['class'=>'btn btn-primary btn-sm mx-1']); ?>
 			<?php echo anchor("admin/addmoderator", 'Add Moderator', ['class'=>'btn btn-primary btn-sm mx-1']); ?>
 			<?php echo anchor("admin/addstudent", 'Add Student', ['class'=>'btn btn-primary btn-sm mx-1']); ?>
-			<?php echo anchor("welcome/adminRegister", "Admin Register", ['class'=>'btn btn-primary']); ?>
+			
 		</div>
 		<hr>
 		<div class="row">

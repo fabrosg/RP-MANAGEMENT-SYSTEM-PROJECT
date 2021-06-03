@@ -48,18 +48,18 @@ Dashboard: Which takes admin back to the admin dashboard where ever admin is.
 Moderator: To view all moderators added for particular IPRC.
 Logout: Logout from the dashboard
 
-Add College : Add college to the database so that it can be dynamically fetched from the database for student college information. Add College Form input includes:
-Adding college name
+Add IPRC : Add college to the database so that it can be dynamically fetched from the database for student IPRC information. Add College Form input includes:
+Adding IPRC name
 Adding college branch
 Add Moderator : Add a moderator for a particular college that means a head of that IPRC. Add Moderator form input includes:
 Add Username
-Add College name(Dynamically loaded from database)
+Add IPRC name(Dynamically loaded from database)
 Email
 Gender
 Role(Dyanamically loaded from database with role id)
 Password
 Confirm Password
-Add Student : Add Student to the record with different college. Add Student form input includes:
+Add Student : Add Student to the record with different IPRCs. Add Student form input includes:
 Add Student Name
 Add IPRC name(Dynamically loaded from database)
 Email

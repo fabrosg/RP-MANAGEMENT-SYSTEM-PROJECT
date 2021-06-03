@@ -9,7 +9,7 @@
 					<tr>
 						<th>S.No.</th>
 						<th>Student Name</th>
-						<th>College Name</th>
+						<th>IPRCs Name</th>
 						<th>Gender</th>
 						<th>Email</th>
 						<th>Course</th>

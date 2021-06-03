@@ -20,12 +20,12 @@
 		<div class="row">
 			<div class="col-md-6">
 				<div class="form-group">
-					<label for="collegename" class="col-md-3 control-label">College Name</label>
+					<label for="collegename" class="col-md-3 control-label">IPRC Name</label>
 					<div class="col-md-9">
 						<?php echo form_input([ 'name'=>'collegename',
 																		'class'=>'form-control',
 																		'value'=>set_value('collegename'),
-																		'placeholder'=>'College Name'
+																		'placeholder'=>'IPRCs Name'
 																	]); ?>
 					</div>
 				</div>
@@ -52,7 +52,7 @@
 			</div>
 		</div>
 
-		<button type="submit" class="btn btn-primary">Add College</button>
+		<button type="submit" class="btn btn-primary">Add IPRCs</button>
 		<?php echo anchor("admin/dashboard", "Back", ['class'=>'btn btn-primary']); ?>
 
 		<?php echo form_close(); ?>
